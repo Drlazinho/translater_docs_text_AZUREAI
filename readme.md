@@ -1,0 +1,1 @@
+# Tradutor de arquivos e texto com AzureAI
